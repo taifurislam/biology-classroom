@@ -11012,4 +11012,6 @@ background-color: #166466; color: white; font-family: arial;}
 #firststpaperclasseshsclucky {width: 50%; background-color: #303B4D; text-align: center; color: white; padding-top: 30px; padding-bottom: 30px; float: left;}
 #firststpaperclasseshsclucky h1 {font-family: Showcard Gothic;}
 #firstchapterfirstpaperhsclucky {text-align: center; margin: auto;display: flex; justify-content: center;align-items: center;}
-#secondpaperclasseshsclucky{width: 50%; background-color: #a3778f; text-align: center; color: white; padding-top: 30px; padding-bottom: 30px; float: right; }
+#secondpaperclasseshsclucky{width: 50%; background-color: #a3778f; text-align: center; color: white; padding-top: 30px; padding-bottom: 30px; float: right; margin-bottom: 60px; }
+#secondpaperclasseshsclucky h1{ font-family: Showcard Gothic; color: #ffffff }
+
