@@ -11016,7 +11016,7 @@ background-color: #166466; color: white; font-family: arial;}
 #freeclasses{text-align: center; margin-top: 20px; margin-bottom: 20px;}
 #freehscclassvideo{align-items: center; margin-left: 20px; margin-right: 20px; justify-content: center; margin: auto; display: flex;}
 #videos {margin-left: 10px;margin-right: 10px; width:400px;}
-#more{text-align: center; margin-top: 20px;}
+#more{text-align: center; margin-top: 20px;margin-bottom: 5px;}
 #firststpaperclasseshsclucky {width: 50%; background-color: #303B4D; text-align: center; color: white; padding-top: 30px; padding-bottom: 30px; float: left;}
 #firststpaperclasseshsclucky h1 {font-family: Showcard Gothic;}
 #firstchapterfirstpaperhsclucky {text-align: center; margin: auto;display: flex; justify-content: center;align-items: center;align-items: flex-end;}
@@ -11025,4 +11025,3 @@ background-color: #166466; color: white; font-family: arial;}
 #facebookicon{font-size: 40px; color: #0B84ED; }
 #facebookiconblock{width: 50px; background-color: black;}
 #notebutton{margin-left: 20px;}
-#chapter{margin-top: 5px; margin-bottom: 5px;}
